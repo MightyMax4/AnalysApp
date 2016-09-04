@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1186493776">
+    <data-source source="LOCAL" name="SQLite - AnalysApp" uuid="f6b09f8f-1589-44ba-bf07-ef17bda278eb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/src/analysappbd.s3db</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/libs/sqlite-jdbc-3.7.2.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
